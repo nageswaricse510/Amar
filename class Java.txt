@@ -1,0 +1,16 @@
+class Java
+ {
+    
+ int a,b:
+     
+     public static void main(StringArgs[])
+          
+         {
+             a=10;
+             b=20;
+             System.out.println(a+b);
+
+
+
+}
+}
